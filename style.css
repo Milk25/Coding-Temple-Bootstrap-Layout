@@ -1,0 +1,12 @@
+.heading {
+    font-size: 48px;
+    list-style-type: none;
+    text-align: center;
+}
+
+img {
+    /* background-image: url("image.png"); */
+    /* background-size:auto; */
+    height: 1000px;
+    width:  1000px;
+}
